@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Kesther Ogbu
 
-<!--
-**Kesther04/Kesther04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a Full-Stack Developer & B2B SaaS Builder** — I turn early-stage ideas into 
+production-ready products that solve real business problems.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack developer specializing in **B2B SaaS MVPs** and **web applications** 
+for founders and businesses in general. I build end to end — frontend to backend to database — 
+with real users and revenue generation in mind.
+
+## 🛠 Tech Stack
+
+**Frontend**: React • TypeScript • TailwindCSS
+**Backend**: Node.js • Express.js  • PHP  
+**Database**: PostgreSQL • Prisma ORM • MySQL   • Supabase  
+**Tools**: Git • Vercel • REST APIs • AI API
