@@ -1,4 +1,4 @@
-👋 **Hi, I'm Kesther Ogbu**
+## 👋 Hi, I'm Kesther Ogbu
 
 **I am a Full-Stack Developer & B2B SaaS Builder.** I turn early-stage ideas into 
 production-ready products that solve real business problems.
