@@ -12,6 +12,9 @@ with real users and revenue generation in mind.
 ## 🛠 Tech Stack
 
 **Frontend**: React • TypeScript • TailwindCSS
+
 **Backend**: Node.js • Express.js   
+
 **Database**: PostgreSQL • Prisma ORM  • Supabase  
+
 **Tools**: Git • Vercel • REST APIs • AI API
